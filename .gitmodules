@@ -1,3 +1,6 @@
 [submodule "causets_examples"]
 	path = causets_examples
 	url = https://github.com/c-minz/Python-causets-examples.git
+[submodule "causets"]
+	path = causets
+	url = https://github.com/r0uv3n/causets
