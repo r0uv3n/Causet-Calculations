@@ -21,6 +21,7 @@
             numpy
             pandas
             matplotlib
+            ipympl
           ]))
         ];
         shellHook = "jupyter notebook";
